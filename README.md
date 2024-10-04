@@ -1,4 +1,4 @@
-# disney_strategy
+# Strategic Analysis of Disney's Challenges
 Disney Strategic Analysis Project
 Project Description:
 This project presents an in-depth strategic analysis of The Walt Disney Company, examining the complexities of its competitive positioning, growth strategies, and operational challenges in the entertainment industry. While aspects of Disney+ are addressed, the focus is on Disney's overarching strategy and how it navigates the competitive dynamics in both traditional media and streaming services.
